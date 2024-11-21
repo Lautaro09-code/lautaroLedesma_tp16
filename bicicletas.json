@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "marca": "Fierce",
+        "modelo": "FM18SI29AM211",
+        "rodado": 29,
+        "año": 2021,
+        "color": "Negro",
+        "peso": 16,
+        "tipo": "Montañera",
+        "precio": 1200,
+        "vendida": false
+    },
+    {
+        "id": 2,
+        "marca": "Shifter",
+        "modelo": "Regal",
+        "rodado": 26,
+        "año": 2020,
+        "color": "Rojo",
+        "peso": 15,
+        "tipo": "Paseo",
+        "precio": 950,
+        "vendida": true
+    },
+    {
+        "id": 3,
+        "marca": "Olmo",
+        "modelo": "Techno",
+        "rodado": 28,
+        "año": 2022,
+        "color": "Azul",
+        "peso": 13,
+        "tipo": "Retro",
+        "precio": 1100,
+        "vendida": false
+    }
+]
